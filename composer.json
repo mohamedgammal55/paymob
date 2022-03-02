@@ -1,0 +1,17 @@
+{
+    "name": "mohamedgammal55/paymob",
+    "description": "pay mob package",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "mohamed gamal",
+            "email": "mohamedgammal55@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {"mohamedgammal55/paymob": "src/"}
+    },
+    "require": {}
+}
