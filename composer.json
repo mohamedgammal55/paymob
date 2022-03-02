@@ -11,7 +11,7 @@
     ],
     "minimum-stability": "stable",
     "autoload": {
-        "psr-4": {"mohamedgammal55/paymob": "src/"}
+        "psr-4": {"mohamedgammal55/paymob/": "src/"}
     },
     "require": {}
 }
